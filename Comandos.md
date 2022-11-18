@@ -26,3 +26,17 @@ git push origin :nombre-rama
 ## Fuentes
 
 * [ELIMINAR RAMAS LOCALES Y REMOTAS](https://vabadus.es/blog/otros/trabajando-con-git-eliminar-ramas-locales-y-remotas)
+
+
+
+## img
+![Profile](https://.jpg)
+
+
+
+### Tabla
+Transport | Favored by | Advantages
+--- | --- | ---
+Swallow | Coconuts | Otherwise unladen
+Bicycle | Miss Gulch | Weatherproof
+X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
