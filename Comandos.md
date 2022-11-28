@@ -5,38 +5,19 @@ Comandos para facil acceso personal
 [by @RouterUIZ007]
 
 ## Eliminar ramas
-* normal
+### normal
 ```git
 git branch -d nombre_rama
 ```
-* forzar
+### forzar
 ```git
 git branch -D nombre-rama
 ```
-* eliminar una remota
+### eliminar una remota
 ```git
 git push origin :nombre-rama
 ```
-
-
-
-
-
-
 ## Fuentes
 
 * [ELIMINAR RAMAS LOCALES Y REMOTAS](https://vabadus.es/blog/otros/trabajando-con-git-eliminar-ramas-locales-y-remotas)
 
-
-
-## img
-![Profile](https://.jpg)
-
-
-
-### Tabla
-Transport | Favored by | Advantages
---- | --- | ---
-Swallow | Coconuts | Otherwise unladen
-Bicycle | Miss Gulch | Weatherproof
-X-34 landspeeder | Whiny farmboys | Cheap since the X-38 came out
