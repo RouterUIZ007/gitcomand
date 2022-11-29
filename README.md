@@ -7,7 +7,7 @@ Comandos para facil acceso personal
 ## Hacer commits
 ### Agregar cambios
 ```git
-git add <archivo o ruta del archivo>
+git add archivo_ruta
 ```
 ### Agregartodos los cambios
 ```git
@@ -15,7 +15,7 @@ git add .
 ```
 ### crear commit
 ```git
-git commit -m "nombre_commit>"
+git commit -m "nombre_commit"
 ```
 ### hacer push
 ```git
@@ -25,8 +25,6 @@ git push origin nombre_rama
 ```git
 git pull origin nombre_rama
 ```
-
-
 ## Crear Ramas
 ### Crear rama
 ```git
@@ -58,14 +56,14 @@ git push origin :nombre-rama
 
 * [Eliminar ramas locales y remotas](https://vabadus.es/blog/otros/trabajando-con-git-eliminar-ramas-locales-y-remotas)
 
-## Eliminar comiit remoto
+## Eliminar commit remoto
 ### reset hasta al commit <commit> válido
 ```git
-git reset <commit> --hard
+git reset num_commit --hard
 ```
 ### nuevo push con la opción -f para forzar la sobreescritura del historial
 ```git
-git push -f origin master
+git push -f origin nombre-rama
 ```
 
 ## Fuentes
