@@ -4,6 +4,43 @@ Comandos para facil acceso personal
 
 [by @RouterUIZ007]
 
+## Hacer commits
+### Agregar cambios
+```git
+git add <archivo o ruta del archivo>
+```
+### Agregartodos los cambios
+```git
+git add .
+```
+### crear commit
+```git
+git commit -m "nombre_commit>"
+```
+### hacer push
+```git
+git push origin nombre_rama
+```
+#### recomendacion hacer pull despues
+```git
+git pull origin nombre_rama
+```
+
+
+## Crear Ramas
+### Crear rama
+```git
+git branch nombre_rama
+```
+### cambiar a rama
+```git
+git checkout nombre_rama
+```
+### crear y cambiar a rama
+```git
+git checkout -b nombre_rama
+```
+
 ## Eliminar ramas
 ### normal
 ```git
