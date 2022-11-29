@@ -1,4 +1,4 @@
-# Comandos GIT personal
+# Comandos GIT (uso personal personal)
 
 Comandos para facil acceso personal
 
@@ -37,6 +37,19 @@ git checkout nombre_rama
 ### crear y cambiar a rama
 ```git
 git checkout -b nombre_rama
+```
+## ver estatus y commits
+## ver estatus
+```git
+git status
+```
+## ver commits genera
+```git
+git log
+```
+## ver commits resumen
+```git
+git log --oneline
 ```
 
 ## Eliminar ramas
