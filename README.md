@@ -3,6 +3,16 @@
 Comandos para facil acceso personal
 
 [by @RouterUIZ007]
+## Agregar a repo (new repo and project created)
+### 
+```git
+git init
+git add archivo_ruta
+git commit -m "nombre_commit"
+git branch -M nombre_rama
+git remote add origin [ruta de repo.git]
+git push -u origin nombre_rama
+```
 
 ## Hacer commits
 ### Agregar cambios
@@ -39,15 +49,16 @@ git checkout nombre_rama
 git checkout -b nombre_rama
 ```
 ## ver estatus y commits
-## ver estatus
+### ver estatus
+#### ver stages realizados
 ```git
 git status
 ```
-## ver commits genera
+### ver commits en general
 ```git
 git log
 ```
-## ver commits resumen
+### ver resumen de commits 
 ```git
 git log --oneline
 ```
