@@ -27,6 +27,10 @@ git add .
 ```git
 git commit -m "nombre_commit"
 ```
+### crear commit --no-verify
+```git
+git commit --no-verify -m "nombre_commit"
+```
 ### hacer push
 ```git
 git push origin nombre_rama
